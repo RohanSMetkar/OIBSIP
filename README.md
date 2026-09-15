@@ -79,70 +79,9 @@ The models were compared based on their performance, and the best-performing mod
 ## Project Structure
 
 
----------------------------------------------------------------------------------------------------
-# OIBSIP Data Science Task 3
-# 🚗 Car Price Prediction with Machine Learning
-
-> **An intelligent regression-based ML system that predicts the selling price of used cars using real-world vehicle data.**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue)
-![Python](https://img.shields.io/badge/Python-3.9+-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
----
-
-## 📌 Project Overview
-
-Buying or selling a used car can be challenging because the price depends on multiple factors like brand, age, mileage, fuel type, transmission, and market value.
-
-This project builds an **end-to-end Machine Learning pipeline** that learns from historical car listings and predicts the expected selling price of a vehicle.
-
-The system performs:
-
-✨ Data cleaning & preprocessing  
-🔍 Exploratory Data Analysis (EDA)  
-⚙️ Feature engineering  
-🤖 Multiple regression model training  
-📊 Model performance comparison  
-💡 Feature importance analysis  
-🚘 Real-time sample price prediction  
-
----
-
-# 🎯 Objective
-
-Develop a Machine Learning model that can accurately estimate:
-
-> **"How much should a used car sell for based on its features?"**
-
----
-
-# 📂 Dataset
-
-The project uses:
-
-`car_data.xls`
-
-A dataset containing **301 used car listings** with important vehicle information.
-
-| Feature | Description |
-|---------|-------------|
-| 🚘 Car_Name | Vehicle model name |
-| 📅 Year | Manufacturing year |
-| 💰 Selling_Price | Final selling price (Lakhs) |
-| 🏷️ Present_Price | Current showroom price (Lakhs) |
-| 🛣️ Kms_Driven | Distance travelled |
-| ⛽ Fuel_Type | Petrol / Diesel / CNG |
-| 🤝 Seller_Type | Dealer / Individual |
-| ⚙️ Transmission | Manual / Automatic |
-| 👤 Owner | Previous ownership count |
-
----
-
-# 🗂️ Project Structure
 
 
----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 # OIBSIP Data Science Task 2  
 # Unemployment Analysis with Python
 
@@ -257,4 +196,69 @@ Compared unemployment conditions:
 ## 📁 Repository Structure
 
 
+
+
+
+---------------------------------------------------------------------------------------------------
+# OIBSIP Data Science Task 3
+# 🚗 Car Price Prediction with Machine Learning
+
+> **An intelligent regression-based ML system that predicts the selling price of used cars using real-world vehicle data.**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue)
+![Python](https://img.shields.io/badge/Python-3.9+-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+---
+
+## 📌 Project Overview
+
+Buying or selling a used car can be challenging because the price depends on multiple factors like brand, age, mileage, fuel type, transmission, and market value.
+
+This project builds an **end-to-end Machine Learning pipeline** that learns from historical car listings and predicts the expected selling price of a vehicle.
+
+The system performs:
+
+✨ Data cleaning & preprocessing  
+🔍 Exploratory Data Analysis (EDA)  
+⚙️ Feature engineering  
+🤖 Multiple regression model training  
+📊 Model performance comparison  
+💡 Feature importance analysis  
+🚘 Real-time sample price prediction  
+
+---
+
+# 🎯 Objective
+
+Develop a Machine Learning model that can accurately estimate:
+
+> **"How much should a used car sell for based on its features?"**
+
+---
+
+# 📂 Dataset
+
+The project uses:
+
+`car_data.xls`
+
+A dataset containing **301 used car listings** with important vehicle information.
+
+| Feature | Description |
+|---------|-------------|
+| 🚘 Car_Name | Vehicle model name |
+| 📅 Year | Manufacturing year |
+| 💰 Selling_Price | Final selling price (Lakhs) |
+| 🏷️ Present_Price | Current showroom price (Lakhs) |
+| 🛣️ Kms_Driven | Distance travelled |
+| ⛽ Fuel_Type | Petrol / Diesel / CNG |
+| 🤝 Seller_Type | Dealer / Individual |
+| ⚙️ Transmission | Manual / Automatic |
+| 👤 Owner | Previous ownership count |
+
+---
+
+# 🗂️ Project Structure
+---------------------------------------------------------------------------------------------------
 
