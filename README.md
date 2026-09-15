@@ -79,9 +79,8 @@ The models were compared based on their performance, and the best-performing mod
 ## Project Structure
 
 
-
-
 ---------------------------------------------------------------------------------------------------
+# OIBSIP Data Science Task 3
 # 🚗 Car Price Prediction with Machine Learning
 
 > **An intelligent regression-based ML system that predicts the selling price of used cars using real-world vehicle data.**
@@ -141,5 +140,121 @@ A dataset containing **301 used car listings** with important vehicle informatio
 ---
 
 # 🗂️ Project Structure
+
+
+---------------------------------------------------------------------------------------------------
+# OIBSIP Data Science Task 2  
+# Unemployment Analysis with Python
+
+## 📌 Project Overview
+
+This project is part of the **Oasis Infobyte Data Science Internship Program (OIBSIP)**.
+
+The objective of this project is to perform **Exploratory Data Analysis (EDA)** on unemployment data in India and analyze regional and time-based unemployment trends. The analysis focuses on understanding unemployment patterns and the impact of the **COVID-19 pandemic** on employment conditions.
+
+---
+
+## 🎯 Objective
+
+The main objectives of this project are:
+
+- Analyze unemployment trends in different regions of India.
+- Perform data cleaning and preprocessing.
+- Explore regional variations in unemployment rates.
+- Study monthly unemployment trends.
+- Compare unemployment rates of selected regions over time.
+- Identify regions with the highest average unemployment rates.
+- Analyze relationships between unemployment rate, employment, and labour participation rate.
+- Compare pre-COVID and post-COVID unemployment conditions.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📂 Dataset
+
+The dataset contains unemployment-related information from different regions of India.
+
+### Features include:
+
+- Region
+- Date
+- Estimated Unemployment Rate (%)
+- Estimated Employed
+- Estimated Labour Participation Rate (%)
+
+---
+
+## 🔍 Project Workflow
+
+### 1. Data Loading
+- Imported the unemployment dataset.
+- Checked dataset structure and basic information.
+
+### 2. Data Cleaning
+Performed preprocessing steps:
+
+- Checked missing values.
+- Cleaned text columns.
+- Converted date column into datetime format.
+- Converted numerical columns into correct data types.
+- Removed missing values.
+- Checked duplicate records.
+
+### 3. Exploratory Data Analysis (EDA)
+
+The following analyses were performed:
+
+### 📊 Region-wise Average Unemployment Rate
+- Calculated average unemployment rate for different regions.
+- Compared unemployment levels across states.
+
+### 📈 Month-wise Unemployment Trend
+- Analyzed how unemployment changed over time.
+
+### 📉 Time-Series Analysis
+- Compared unemployment trends of selected regions.
+
+### 🏆 Top 10 Regions with Highest Average Unemployment
+- Identified regions having the highest average unemployment rate.
+
+### 🔥 Correlation Analysis
+- Studied relationships between:
+  - Unemployment Rate
+  - Employment
+  - Labour Participation Rate
+
+- Visualized correlation using a heatmap.
+
+### 🦠 Pre-COVID vs Post-COVID Analysis
+Compared unemployment conditions:
+
+- **Pre-COVID:** Before March 2020  
+- **Post-COVID:** March 2020 onwards
+
+---
+
+## 📊 Key Findings
+
+- Unemployment rates vary significantly across different regions of India.
+- Employment conditions are different among states due to economic and industrial factors.
+- The unemployment rate changed over time.
+- COVID-19 had a noticeable impact on unemployment conditions.
+- Some regions experienced considerably higher unemployment rates.
+- Labour market indicators changed during the pandemic period.
+
+---
+
+## 📁 Repository Structure
+
 
 
